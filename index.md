@@ -12,5 +12,6 @@ My research focuses on **networking & systems**, especially **network observabil
 👉 Check out:  
 - **[Research](/research/)**  
 - **[Publications](/publications/)**  
-- **[CV](/cv/)**  
+- **[CV](/cv/)**
+- **[About](/about/)**    
 
