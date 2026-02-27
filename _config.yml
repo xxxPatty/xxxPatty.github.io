@@ -1,0 +1,41 @@
+title: "Patty Lin"
+description: "Research Assistant at Academia Sinica | Networking & Systems | Network Digital Twin"
+url: "https://xxxPatty.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Patty Lin"
+  avatar: "/assets/images/avatar.jpg" 
+  bio: "Networking & Systems • Network Digital Twin • Open-source builder"
+  location: "Taiwan"
+  email: "L224749391@gmail.com"
+  links:
+    # - label: "Google Scholar"
+    #   icon: "ai ai-google-scholar"
+    #   url: "<Scholar link>"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/xxxPatty"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+include:
+  - _pages
+
+collections:
+  pages:
+    output: true
+
+markdown: kramdown
