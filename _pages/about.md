@@ -3,9 +3,11 @@ title: "About"
 permalink: /about/
 ---
 
-I am currently a Research Assistant at **Academia Sinica**, working under the supervision of Prof. Shie-Yuan Wang on Network Digital Twin systems and network observability.
+I am currently a Research Assistant at **Academia Sinica** under the supervision of Prof. Shie-Yuan Wang, working on Network Digital Twin systems and large-scale network simulation.
 
-Previously, I received my M.S. in Computer Science from National Yang Ming Chiao Tung University (NYCU), where I was advised by Prof. Shie-Yuan Wang, and my B.S. from National Taiwan Ocean University (NTOU).
+I received my M.S. in Computer Science from National Yang Ming Chiao Tung University (NYCU), where I conducted research in network systems under Prof. Wang’s guidance.
+
+Previously, I earned my B.S. from National Taiwan Ocean University (NTOU), where my undergraduate capstone project was advised by Prof. Shang-Pin Ma.
 
 I enjoy building end-to-end systems: from architecture design to implementation and evaluation.
 
