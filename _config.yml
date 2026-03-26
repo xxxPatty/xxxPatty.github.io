@@ -9,6 +9,10 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
+atom_feed:
+  hide: true
+
+
 author:
   name: "Patty Lin"
   avatar: "/assets/images/avatar.jpg" 
