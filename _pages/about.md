@@ -11,7 +11,7 @@ Previously, I earned my B.S. from National Taiwan Ocean University (NTOU), where
 
 I enjoy building end-to-end systems: from architecture design to implementation and evaluation.
 
-Outside of research, I am a disciplined long-distance runner and an aerial hoop practitioner. I also enjoy street dance training. Physical training helps me maintain focus and resilience in research.
+Outside of research, I am a disciplined long-distance runner and an aerial hoop practitioner. I also enjoy practicing K-pop dance. Physical training helps me maintain focus and resilience in research.
 
 **Contact:** L224749391@gmail.com
 
