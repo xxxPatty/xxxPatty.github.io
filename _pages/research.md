@@ -14,7 +14,7 @@ permalink: /research/
 
 ### Network Digital Twin
 **Role:** core system design & implementation  
-**Links:** https://ndtwin.org/
+**Links:** [NDTwin website](https://ndtwin.org/)
 
 **What:** An open-source system for network observability and analytics.  
 **Why:** Operators need actionable visibility with low overhead and scalable collection.  
