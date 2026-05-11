@@ -10,9 +10,4 @@ My research focuses on **networking & systems**, especially **network observabil
 
 **Research interests:** network telemetry, traffic measurement, programmable networks, system building, performance evaluation.
 
-Check out:  
-- **[Research](/research/)**  
-- **[Publications](/publications/)**  
-- **[CV](/cv/)**
-- **[About](/about/)**    
 
