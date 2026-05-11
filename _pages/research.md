@@ -2,6 +2,8 @@
 title: "Research"
 permalink: /research/
 classes: wide
+pagination: false
+related: false
 ---
 
 ## Current Focus

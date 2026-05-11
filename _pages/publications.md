@@ -2,6 +2,8 @@
 title: "Publications"
 permalink: /publications/
 classes: wide
+pagination: false
+related: false
 ---
 
 ## Peer-reviewed
