@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+classes: wide
 ---
 
 I am currently a Research Assistant at **Academia Sinica** under the supervision of Prof. Shie-Yuan Wang, working on Network Digital Twin systems and large-scale network simulation.

@@ -1,6 +1,7 @@
 ---
 title: "Home"
 permalink: /
+classes: wide
 ---
 
 Hi! I’m **Patty Lin**, a Research Assistant at **Academia Sinica (Taiwan)**.

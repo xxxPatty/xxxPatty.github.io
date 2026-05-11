@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
+classes: wide
 ---
 
 ## Peer-reviewed
