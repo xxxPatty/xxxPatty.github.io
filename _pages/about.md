@@ -13,6 +13,19 @@ I enjoy building end-to-end systems: from architecture design to implementation 
 
 Outside of research, I am a disciplined long-distance runner and an aerial hoop practitioner. I also enjoy practicing K-pop dance. Physical training helps me maintain focus and resilience in research.
 
+
+<div style="display: flex; gap: 16px; margin-top: 18px; margin-bottom: 24px; align-items: flex-start;">
+
+  <img src="/images/aerial_hoop_pose.jpg"
+       alt="Aerial hoop practice"
+       style="width: 220px; max-width: 100%; border-radius: 10px;">
+
+  <img src="/images/aerial_hoop_invert.jpg"
+       alt="Aerial hoop inversion"
+       style="width: 140px; max-width: 100%; border-radius: 10px;">
+
+</div>
+
 **Contact:** L224749391@gmail.com
 
 
