@@ -19,7 +19,7 @@ Outside of research, I am a disciplined long-distance runner and an aerial hoop 
 
   <img src="/assets/images/aerial_hoop.jpg"
        alt="Aerial hoop practice"
-       style="width: 220px; max-width: 100%; border-radius: 10px;">
+       style="width: 140px; max-width: 100%; border-radius: 10px;">
 
   <img src="/assets/images/aerial_hoop2.jpg"
        alt="Aerial hoop inversion"
