@@ -16,11 +16,11 @@ Outside of research, I am a disciplined long-distance runner and an aerial hoop 
 
 <div style="display: flex; gap: 16px; margin-top: 18px; margin-bottom: 24px; align-items: flex-start;">
 
-  <img src="/images/aerial_hoop.jpg"
+  <img src="/assets/images/aerial_hoop.jpg"
        alt="Aerial hoop practice"
        style="width: 220px; max-width: 100%; border-radius: 10px;">
 
-  <img src="/images/aerial_hoop2.jpg"
+  <img src="/assets/images/aerial_hoop2.jpg"
        alt="Aerial hoop inversion"
        style="width: 140px; max-width: 100%; border-radius: 10px;">
 
