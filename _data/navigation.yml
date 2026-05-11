@@ -2,9 +2,6 @@ main:
   - title: "Home"
     url: /
 
-  - title: "About"
-    url: /about/
-
   - title: "Research"
     url: /research/
 
@@ -13,3 +10,6 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "About"
+    url: /about/
