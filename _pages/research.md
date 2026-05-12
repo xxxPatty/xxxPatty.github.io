@@ -7,23 +7,20 @@ related: false
 ---
 
 ## Current Focus
-**Network Digital Twin & Observability**
-- Building an open-source system (**Network Digital Twin**) for network monitoring and analytics
-- Telemetry collection (e.g., sFlow), topology/flow monitoring, and performance evaluation
-- System design with clear trade-offs (accuracy, overhead, scalability)
 
-## Selected Projects
-
-
-### Network Digital Twin
-**Role:** core system design & implementation  
+### Network Digital Twin  
+**Role:** Core system design & implementation  
 **Links:** [NDTwin website](https://ndtwin.org/)
 
-**What:** An open-source system for network observability and analytics.  
-**Why:** Operators need actionable visibility with low overhead and scalable collection.  
-**How:** 
-- Modular architecture: collector, monitor, controller, UI/website
-- Efficient ingestion pipeline + per-flow/ per-link statistics
-- Evaluations on (testbed / trace / emulation) showing overhead and accuracy
+**What:**  
+NDTwin is an open-source Network Digital Twin system that provides real-time network observability, high-precision flow-level telemetry, simulation-based analysis, and closed-loop network control.
 
-<!-- *(Optional)* Add one figure: architecture diagram or screenshot. -->
+**Why:**  
+Modern network operators need more than passive monitoring. They need actionable, real-time visibility into network states, the ability to evaluate “what-if” scenarios before making changes, and scalable mechanisms to apply control decisions with low overhead.
+
+**How:**  
+- Modular architecture: collector, monitor, controller, applications, tools, and UI/website  
+- High-precision flow-level and per-link telemetry using sFlow/OpenFlow-based data collection  
+- General simulation platform for testing network scenarios and application logic  
+- Closed-loop workflow: collect network states -> model the network -> run simulations/analysis -> apply control actions  
+- Evaluations on physical testbeds, emulation environments, and/or traces to study accuracy, overhead, and scalability
