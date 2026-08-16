@@ -12,8 +12,21 @@ Previously, I earned my B.S. from National Taiwan Ocean University (NTOU), where
 
 I enjoy building end-to-end systems: from architecture design to implementation and evaluation.
 
-Outside of research, I am a disciplined long-distance runner and an aerial hoop practitioner. I also enjoy practicing K-pop dance. Physical training helps me maintain focus and resilience in research.
+I have also presented our research at Academia Sinica’s biennial academic advisory meeting, which brings together Academia Sinica academicians and scholars from abroad.
 
+<div style="margin-top: 18px; margin-bottom: 28px;">
+
+  <img src="/assets/images/academia_sinica_presentation.jpg"
+       alt="Presenting research at Academia Sinica"
+       style="width: 480px; max-width: 100%; border-radius: 10px;">
+
+  <div style="font-size: 0.9em; color: #666; margin-top: 6px;">
+    Presenting our research at Academia Sinica's biennial academic advisory meeting.
+  </div>
+
+</div>
+
+Outside of research, I am a disciplined long-distance runner and an aerial hoop practitioner. I also enjoy practicing K-pop dance. Physical training helps me maintain focus and resilience in research.
 
 <div style="display: flex; gap: 16px; margin-top: 18px; margin-bottom: 24px; align-items: flex-start;">
 
@@ -28,6 +41,3 @@ Outside of research, I am a disciplined long-distance runner and an aerial hoop 
 </div>
 
 **Contact:** L224749391@gmail.com
-
-
-
