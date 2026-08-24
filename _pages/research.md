@@ -8,19 +8,19 @@ related: false
 
 ## Current Focus
 
-### Network Digital Twin  
-**Role:** Core system design & implementation  
+### Network Digital Twin
+
+**Role:** Core system design & implementation
 **Links:** [NDTwin website](https://ndtwin.org/)
 
-**What:**  
-NDTwin is an open-source Network Digital Twin system that provides real-time network observability, high-precision flow-level telemetry, simulation-based analysis, and closed-loop network control.
+NDTwin is an open-source Network Digital Twin system for real-time network monitoring, flow-level traffic reconstruction, simulation-based analysis, and closed-loop network management.
 
-**Why:**  
-Modern network operators need more than passive monitoring. They need actionable, real-time visibility into network states, the ability to evaluate “what-if” scenarios before making changes, and scalable mechanisms to apply control decisions with low overhead.
+My work focuses on the system architecture and implementation, including telemetry collection, flow-level modeling, simulator integration, and the evaluation of monitoring accuracy and scalability on physical testbeds and network traces.
 
-**How:**  
-- Modular architecture: collector, monitor, controller, applications, tools, and UI/website  
-- High-precision flow-level and per-link telemetry using sFlow/OpenFlow-based data collection  
-- General simulation platform for testing network scenarios and application logic  
-- Closed-loop workflow: collect network states -> model the network -> run simulations/analysis -> apply control actions  
-- Evaluations on physical testbeds, emulation environments, and/or traces to study accuracy, overhead, and scalability
+**System highlights**
+
+* Flow-level and per-link telemetry using sFlow and OpenFlow
+* Simulation-driven analysis for evaluating network conditions and candidate actions
+* Closed-loop workflow from network observation to simulation and control
+* Support for network management applications such as traffic engineering and energy saving
+* Evaluation on physical testbeds and large-scale network traces
